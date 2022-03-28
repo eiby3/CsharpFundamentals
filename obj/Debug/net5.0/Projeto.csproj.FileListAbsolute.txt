@@ -1,0 +1,16 @@
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\Projeto.exe
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\Projeto.deps.json
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.json
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.dev.json
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\Projeto.dll
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\ref\Projeto.dll
+D:\dev\fundamentoProject\Projeto\bin\Debug\net5.0\Projeto.pdb
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.csproj.AssemblyReference.cache
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.dll
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\ref\Projeto.dll
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.pdb
+D:\dev\fundamentoProject\Projeto\obj\Debug\net5.0\Projeto.genruntimeconfig.cache
